@@ -1,2 +1,4 @@
 I am Tenku Sora!
 How are you doing today!?
+Wow i didnt save my git_test repo in the correct place.
+So I had to do this step over again.
